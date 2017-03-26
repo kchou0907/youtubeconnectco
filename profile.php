@@ -12,7 +12,7 @@
 			<a href="home.php" class="link">home</a>
 			<a href="buy.php" class="link">buy</a>
 			<a href="giveaway.php" class="link">giveaway</a>
-			<a href="login.php" class="link">register/login</a>
+			<a href="profile.php" class="link">register/profile</a>
 		</nav>
 	</div>
 	

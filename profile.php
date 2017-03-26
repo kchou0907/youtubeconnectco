@@ -18,7 +18,6 @@
 	
 	</div>
 		<h6>My Profile</h6>
-		<img id = "pepe" src="pepe.jpg"/>
-	</div>
+ <img id="pepe" src="pepe.jpg">	</div>
 </body>
 </html>

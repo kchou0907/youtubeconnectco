@@ -235,3 +235,13 @@ h5 {
 	margin-right:150px;
 	float:right;
 }
+
+h6 { 
+   position: absolute; 
+   top: 50px; 
+   left: 280px; 
+   width: 61%; 
+   font-size: 50px;
+   text-decoration: none;
+   font-family: Verdana;
+}

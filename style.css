@@ -42,7 +42,7 @@ h2 {
    position: absolute; 
    top: 125px; 
    left: 210px; 
-   width: 70%; 
+   width: 72%; 
    font-size: 4.5vw;
    color: white;
    text-decoration: none;
@@ -140,108 +140,4 @@ h4 {
     font-size: 1.6vw;
     color: rgb(51, 51, 51);
     font-family: Arial, Helvetica, sans-serif;
-}
-
-h5 { 
-   position: absolute; 
-   top: 50px; 
-   left: 280px; 
-   width: 61%; 
-   font-size: 4.5vw;
-   color: white;
-   text-decoration: none;
-   font-family: Verdana;
-   background-color: rgba(192,192,192, 0.85);
-}
-
-#description{
-    position: absolute; 
-    top: 250px; 
-    left: 285px; 
-    width: 60%; 
-    font-size: 1.6vw;
-    color: rgb(51, 51, 51);
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-#purse{
-	width:250px;
-	height:250px;
-	margin-top:250px;
-	margin-left:150px;
-	float:left;
-}
-
-#camera{
-	width:300px;
-	height:250px;
-	margin-top:250px;
-	margin-left:150px;
-	float:center;
-}
-
-#iphone{
-	width:250px;
-	height:250px;
-	margin-top:250px;
-	margin-right:150px;
-	float:right;
-}
-
-#polaroid{
-	width:250px;
-	height:250px;
-	margin-top:100px;
-	margin-left:150px;
-	float:left;
-}
-
-#gopro{
-	width:300px;
-	height:250px;
-	margin-top:100px;
-	margin-left:150px;
-	float:center;
-}
-
-#palette{
-	width:250px;
-	height:250px;
-	margin-top:100px;
-	margin-right:150px;
-	float:right;
-}
-
-#computer{
-	width:250px;
-	height:250px;
-	margin-top:100px;
-	margin-left:150px;
-	float:left;
-}
-
-#straightener{
-	width:300px;
-	height:250px;
-	margin-top:100px;
-	margin-left:150px;
-	float:center;
-}
-
-#planner{
-	width:250px;
-	height:250px;
-	margin-top:100px;
-	margin-right:150px;
-	float:right;
-}
-
-h6 { 
-   position: absolute; 
-   top: 50px; 
-   left: 280px; 
-   width: 61%; 
-   font-size: 50px;
-   text-decoration: none;
-   font-family: Verdana;
 }

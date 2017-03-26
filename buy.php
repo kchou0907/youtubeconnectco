@@ -7,13 +7,15 @@
 </head>
 <body>
 	<div class="navbar">
-		<img src="logo.png" id="logo">
+		<a href="home.php"><img src="logo.png" id="logo"></a>
 		<nav>
 			<a href="home.php" class="link">home</a>
 			<a href="buy.php" class="link">buy</a>
 			<a href="giveaway.php" class="link">giveaway</a>
 			<a href="login.php" class="link">register/login</a>
 		</nav>
+	</div>
+	<div class="center">
 	</div>
 </body>
 </html>

@@ -7,12 +7,12 @@
 </head>
 <body>
 	<div class="navbar">
-		<a href="home.html"><img src="logo.png" id="logo"></a>
+		<a href="home.php"><img src="logo.png" id="logo"></a>
 		<nav>
-			<a href="home.html" class="link">home</a>
-			<a href="buy.html" class="link">buy</a>
-			<a href="giveaway.html" class="link">giveaway</a>
-			<a href="login.html" class="link">register/login</a>
+			<a href="home.php" class="link">home</a>
+			<a href="buy.php" class="link">buy</a>
+			<a href="giveaway.php" class="link">giveaway</a>
+			<a href="login.php" class="link">register/login</a>
 		</nav>
 	</div>
 	

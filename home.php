@@ -16,6 +16,10 @@
 		</nav>
 	</div>
 	<div id="backgroundpic">
+		<!--<img src="background.jpg"/>-->
+
+		      <h2>CONNECT WITH CREATORS</h2>
+			  <h3>CONNECT WITH FANS</h3>
 	</div>
 </body>
 </html>

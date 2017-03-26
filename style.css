@@ -12,6 +12,7 @@
 	font-size: 30px;
 	display: block;
 	height: 100px;
+	font-family: 'Oswald', sans-serif;
 }
 .link{
 	margin-right: 35px;
@@ -34,4 +35,29 @@ nav {
 	width: 100%;
 	min-width: 950px;
 	min-height: 580px;
+	position: relative;
+}
+
+h2 { 
+   position: absolute; 
+   top: 125px; 
+   left: 190px; 
+   width: 76%; 
+   font-size: 70px;
+   color: white;
+   text-decoration: none;
+   font-family: Verdana;
+   background-color: rgba(192,192,192, 0.85);
+}
+
+h3 { 
+   position: absolute; 
+   top: 250px; 
+   left: 297px; 
+   width: 61%; 
+   font-size: 70px;
+   color: white;
+   text-decoration: none;
+   font-family: Verdana;
+   background-color: rgba(192,192,192, 0.85);
 }

@@ -1,6 +1,37 @@
-#logo{
-  height: 80px;
-  margin-top: 10px;
-  margin-left: 10px;
-  display: inline;
+#logo {
+	position: absolute;
+	top: 10px;
+	left: 20px;
+	height: 60px;
+	margin-top: 20px;
+	margin-left: 10px;
+	display: inline;
+
+}
+.navbar{
+	font-size: 30px;
+	display: block;
+	height: 100px;
+}
+.link{
+	margin-right: 35px;
+}
+a {
+	color: darkgray;
+	text-decoration: none;
+}
+a:hover {
+	color: #c4302b;
+}
+nav {
+	text-align: right;
+	padding-top: 32px;
+}
+#backgroundpic {
+	background-image: url("background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	min-width: 950px;
+	min-height: 580px;
 }
